@@ -1,0 +1,46 @@
+h3 {
+    color: rgb(50, 50, 50);
+    font-size: 50px;
+    margin-left: 250px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgb(43, 40, 39);
+    margin-left: 250px;
+}
+
+a {
+    color: rgb(255, 100, 50);
+}
+
+.step2img img {
+    margin-left: 250px;
+    width: 1000px;
+    height: auto;
+}
+
+.step3img img {
+    margin-left: 250px;
+    width: 1000px;
+    height: auto;
+}
+
+.step4img img {
+    margin-left: 250px;
+    width: 1000px;
+    height: auto;
+}
+
+.buttonimg img {
+    margin-left: 250px;
+    width: 1000px;
+    height: auto;
+}
+
+h2 {
+    margin-top: 200;
+    font-weight: lighter;
+}
