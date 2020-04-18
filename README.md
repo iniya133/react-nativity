@@ -1,1 +1,1 @@
-# A website to understad react-nativity
+# A website to understand react-nativity
